@@ -1,3 +1,3 @@
 export default {
-    base: '/qr-code-component/',
+    base: '/QR-code-component/',
 };
